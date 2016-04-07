@@ -1,3 +1,5 @@
-a collection of commands for Mac, Linux, R, Matlab, and Igor Pro
+a collection of commands for Mac, Linux, R, Matlab, ImageJ, and Igor Pro
 
-From 2016
+For Igor also check [my igor snippets](https://github.com/wwzhang/igor-snippets)
+
+Last edited on: 2016-04-06
